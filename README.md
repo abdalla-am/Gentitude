@@ -30,10 +30,10 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
 ## Welcoming , vertification & validation 
 <p align="center">
   <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Welcoming%20page.png" width="190" />
-  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Sign%20up.png" width="190" />
-  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Login.png" width="190" />
-  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Forget%20password.png"  width="190" />
-  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/forget%20password2.png"  width="190" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Sign%20up.png" width="180" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Login.png" width="180" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Forget%20password.png"  width="180" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/forget%20password2.png"  width="180" />
 </p>
 
 ## user app screens 
@@ -59,10 +59,10 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
  <img src="https://github.com/abdalla-am/Gentitude/blob/7b575dd2269231594f05820e0ec92178aaf8f369/readme%20images/Admin%20home%20page.png" width="200" />
 </p>
 <p align="center">
- <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/generate%20report.png" width="190" />
- <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/modify%20category%20.png" width="190" />
- <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/modify%20product.png" width="190" />
- <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/descriptive%20chart%20.png" width="190" />
- <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/admin%20feedback.png" width="190" />
+ <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/generate%20report.png" width="180" />
+ <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/modify%20category%20.png" width="180" />
+ <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/modify%20product.png" width="180" />
+ <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/descriptive%20chart%20.png" width="180" />
+ <img src="https://github.com/abdalla-am/Gentitude/blob/f403ef55055db946711efde023b6ad8a3588af76/readme%20images/admin%20feedback.png" width="180" />
 
 </p>
