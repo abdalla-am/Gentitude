@@ -15,6 +15,8 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
 - admin page with its adminstrations
 
 
+## Project requirements
+![App Screenshot](./readme images/Project requirements.jpg)
 
   
 
