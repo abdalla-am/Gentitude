@@ -1,18 +1,21 @@
-<p><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="100" /></a></p>
-<p><img align="right" src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="100" /></a></p>
+<p><img align="right" src="https://github.com/abdalla-am/Gentitude/blob/master/readme%20images/startlogo.png" width="140" /></p>
 <div align=left>
 <h1>
- Gentitude 
+ Gentitude <br> Men's Fashion mobile application
 </h1>
-  <h3>
-    This repo aims to provide a code that Scrapes google maps - place information ( Photos ,Name , Address , Phone number , Website link , rating , no. of reviews , Location link , Plus code , Longitude ,Latitude , place description) without using any tools ( Paid or free ), just by code and some libraries .
-    This project uses webscraping & automation as main subjects
-  </h3>
-   
-<div>
-<br>
-<br>
  
+Mens Fashion Store, is the place where you can buy men's colthings and accessories.
+## Features
 
+- welcoming page and home page 
+- Signup & login page with remember me choice .
+- Cart page with adding and removing items.
+- Product page with its details .
+- Payment page with total amount.
+- admin page with its adminstrations
+
+
+
+  
 
 
