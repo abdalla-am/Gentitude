@@ -28,4 +28,21 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
   <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/forget%20password2.png"  width="190" />
 </p>
 
+## user app screens 
+<p align="center">
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/home%201.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/home%202.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/home%203.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/one%20category%20products.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/Search.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/Product%20details.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/product%20details%202.png" width="200" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/05f97fa8c74f481aab62b92d19fdf4858b041b62/readme%20images/shopping%20cart.png" width="200" />
+</p>
 
+
+## admin app screens
+
+<p align="center">
+ <img src="https://github.com/abdalla-am/Gentitude/blob/7b575dd2269231594f05820e0ec92178aaf8f369/readme%20images/Admin%20home%20page.png" width="200" />
+</p>
