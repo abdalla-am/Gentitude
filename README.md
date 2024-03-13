@@ -3,8 +3,16 @@
 <h1>
  Gentitude <br> Men's Fashion mobile application
 </h1>
+
+ 
  
 Mens Fashion Store, is the place where you can buy men's colthings and accessories.
+
+<h5>
+    "Mobile computing" course at FCIS - ASU 
+        (7th semester)
+</h5>
+
 ## Features
 
 - welcoming page and home page 
