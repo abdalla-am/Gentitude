@@ -29,7 +29,7 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
 
 ## Welcoming , vertification & validation 
 <p align="center">
-  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Welcoming%20page.png" width="190" />
+  <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Welcoming%20page.png" width="180" />
   <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Sign%20up.png" width="180" />
   <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Login.png" width="180" />
   <img src="https://github.com/abdalla-am/Gentitude/blob/e845b4d2b70f0d92e4ee68c5abb3c193ba9a390c/readme%20images/Forget%20password.png"  width="180" />
