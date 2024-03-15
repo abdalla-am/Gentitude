@@ -37,6 +37,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         sqLiteDatabase.execSQL("CREATE TABLE IF NOT EXISTS \"OrderDetails\" ( \"OrdID\"INTEGER, \"ProdID\" INTEGER, \"Quantity\" INTEGER);");
         sqLiteDatabase.execSQL("CREATE TABLE IF NOT EXISTS \"Rate\" (OrdID INTEGER, Stars NUMERIC, Comment TEXT);");
 
+
+
         sqLiteDatabase.execSQL("INSERT INTO Categories(CatName) VALUES('Suits')");
         sqLiteDatabase.execSQL("INSERT INTO Categories(CatName) VALUES('Ties')");
         sqLiteDatabase.execSQL("INSERT INTO Categories(CatName) VALUES('Blazer')");
