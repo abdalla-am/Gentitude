@@ -54,6 +54,8 @@ Mens Fashion Store, is the place where you can buy men's colthings and accessori
 
 
 ## admin app screens
+#### `username ---> admin`   `password ---> admin` 
+
 
 <p align="center">
  <img src="https://github.com/abdalla-am/Gentitude/blob/7b575dd2269231594f05820e0ec92178aaf8f369/readme%20images/Admin%20home%20page.png" width="200" />
